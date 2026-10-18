@@ -1,5 +1,5 @@
-video.mp4
-Video.mp4
+*.mp4
+*.avi
 runs/
 *.zip
 .env
